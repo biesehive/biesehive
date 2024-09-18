@@ -35,6 +35,3 @@ The app is hosted statically using GitHub Pages, meaning anyone with the URL can
 4. **Viewing Transaction History**:
    - View all transactions in the history by double-clicking the inverted triangle symbol (▼) located next to the balance. This will open up the transaction history.
 
----
-
-This version includes the correct symbol and incorporates all requested changes.
